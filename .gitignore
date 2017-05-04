@@ -1,0 +1,7 @@
+# keys
+*.key
+*.csr
+*.crt
+
+# Dependency directories
+node_modules

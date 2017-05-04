@@ -1,0 +1,16 @@
+{
+  "name": "http2_node",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "spdy": "^3.4.4"
+  },
+  "engines": {
+    "node": "7.4.0",
+    "npm": "4.0.5"
+  }
+}
